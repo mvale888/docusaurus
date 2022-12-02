@@ -2,20 +2,21 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# MANUAL DE USUARIO SSS - BIENVENIDO
 
-Let's discover **Docusaurus in less than 5 minutes**.
+¡Estoy para ayudarte!
 
-## Getting Started
+Esta guía te va a ayudar paso a paso a usar cada funcionalidad del sistema SSD.
 
-Get started by **creating a new site**.
+## SISTEMA DE SOPORTE A DISTRIBUIDORA
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Esta manual está dividido por **Módulos**.
 
-### What you'll need
+Los **Módulos** son cada sección que posee el **([https://sistema SSD](https://ssd-proyectofinal.systems/))**.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Videos explicativos
+
+- Con la ayuda de breves videos explicativos, podrás guiarte para las acciones permitidas en cada Módulo.
 
 ## Generate a new site
 
